@@ -1,0 +1,5 @@
+agency-swarm==0.1.7;
+python-dotenv;
+openai;
+instructor;
+pydantic;
